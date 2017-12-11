@@ -1,0 +1,8 @@
+{
+  "name": "thekidslog2",
+  "app_id": "409f6a89",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
